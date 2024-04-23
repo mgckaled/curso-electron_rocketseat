@@ -30,7 +30,7 @@ Repositório do curso Apps Desktop com Eletron da Rocketseat
 
 ### Documentação
 
-- [Eletron](https://www.electronjs.org/pt/docs/latest/)
+- [Electron](https://www.electronjs.org/pt/docs/latest/)
 
 ## Licença
 
