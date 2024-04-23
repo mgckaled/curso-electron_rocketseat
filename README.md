@@ -1,34 +1,43 @@
-# electron-rotion
+<!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD014 -->
 
-An Electron application with React and TypeScript
+# Apps Desktop com Electron - Curso Rocketseat
 
-## Recommended IDE Setup
+<div align="center">
+  <img alt="logo electron" src=".github/assets/electron-logo.png" width="3%" />
+  <img alt="Made by mgckaled" src="https://img.shields.io/badge/made%20by-mgckaled-darkblue">
+  <img alt="GitHub Repo Size" src="https://img.shields.io/github/repo-size/mgckaled/curso-electron_rocketseat">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+  <img alt="logo electron" src=".github/assets/electron-logo.png" width="3%"/>
+</div>
 
-- [VSCode](https://code.visualstudio.com/) + [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) + [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+## Descrição
 
-## Project Setup
+Repositório do curso Apps Desktop com Eletron da Rocketseat
 
-### Install
+**Protótipo do projeto:** [`rotion`](https://www.figma.com/file/oDWCeuEWPkoSJytDBuTax5/) (Figma)
 
-```bash
-$ npm install
-```
+> [anotações do curso](./.github/docs/notes.md)
 
-### Development
+## Línks Úteis
 
-```bash
-$ npm run dev
-```
+### Framework para Desktop Apps
 
-### Build
+- [`Electron`](https://www.electronjs.org/)
+- [`electron-vite`](https://electron-vite.org/)
+- [`Auri`](https://tauri.app/)
+- [`electron-app`](https://github.com/daltonmenezes/electron-app)
 
-```bash
-# For windows
-$ npm run build:win
+### Documentação
 
-# For macOS
-$ npm run build:mac
+- [Eletron](https://www.electronjs.org/pt/docs/latest/)
 
-# For Linux
-$ npm run build:linux
-```
+## Licença
+
+Distribuído sob a licença *MIT*. Veja [LICENSE](LICENSE) para mais informações.
+
+---
+
+<h5 align="center">
+  2024 - <a href="https://github.com/mgckaled/" target="_blanck">Marcel Kaled</a>
+</h5>
